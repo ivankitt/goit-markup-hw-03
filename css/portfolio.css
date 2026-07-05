@@ -20,7 +20,7 @@
 .portfolio-list {
     display: flex;
     flex-wrap: wrap;
-    gap: 24px;
+    gap: 48px 24px;
 }
 
 .li-portfolio {
@@ -38,5 +38,9 @@
     border-left: 1px solid #E7E9FC;
     border-right: 1px solid #E7E9FC;
     padding: 32px 16px;
+}
+
+.img-portfolio {
+    display: block;
 }
 

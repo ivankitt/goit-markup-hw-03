@@ -45,3 +45,7 @@
 .h2-team {
     text-align: center;
 }
+
+.img-team {
+    display: block;
+}
