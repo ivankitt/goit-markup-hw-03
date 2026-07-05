@@ -1,0 +1,42 @@
+.h2-portfolio {
+    text-align: center;
+}
+
+.portfolio {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    padding: 120px 0;
+}
+
+.portfolio-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 72px;
+}
+
+.portfolio-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 24px;
+}
+
+.li-portfolio {
+    display: flex;
+    flex-direction: column;
+    width: 360px;
+}
+
+.li-portfolio-content {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 8px;
+    border-bottom: 1px solid #E7E9FC;
+    border-left: 1px solid #E7E9FC;
+    border-right: 1px solid #E7E9FC;
+    padding: 32px 16px;
+}
+
